@@ -1,0 +1,51 @@
+feature,importance
+account.Charges.Total,0.12161944764134974
+TotalCharges,0.11891120801073699
+account.Charges.Monthly,0.11118331880993629
+customer.tenure,0.10226575762553262
+Contract_num,0.036221650368978
+Contract_Month-to-month,0.03466624822106848
+account.Contract_Month-to-month,0.03282688133703958
+internet.OnlineSecurity_No,0.025557377170660492
+account.PaymentMethod_Electronic check,0.02546824641981209
+internet.TechSupport_No,0.02247373788492432
+internet.InternetService_Fiber optic,0.021262171425397602
+customer.SeniorCitizen,0.016970730259388132
+customer.gender_Male,0.01605937831502387
+customer.gender_Female,0.01597551888602037
+internet.OnlineBackup_No,0.014715657958659846
+account.PaperlessBilling_No,0.014318668557195947
+account.PaperlessBilling_Yes,0.013826136334940122
+customer.Partner_Yes,0.013646150650633706
+customer.Partner_No,0.013152766200370479
+internet.DeviceProtection_No,0.012844944276552155
+account.PaymentMethod_Credit card (automatic),0.011732062179929096
+customer.Dependents_No,0.011571665762982805
+phone.MultipleLines_No,0.011520250236063267
+customer.Dependents_Yes,0.011259040040424533
+phone.MultipleLines_Yes,0.011133501093830411
+internet.OnlineBackup_Yes,0.010831094410859431
+account.PaymentMethod_Mailed check,0.01080514791886306
+internet.StreamingTV_Yes,0.01049743720281885
+account.PaymentMethod_Bank transfer (automatic),0.010491924085258897
+internet.StreamingTV_No,0.010156836631425083
+internet.StreamingMovies_Yes,0.010155769222713275
+internet.DeviceProtection_Yes,0.01014940357674105
+internet.TechSupport_Yes,0.010099060964894036
+internet.StreamingMovies_No,0.010055098065811906
+internet.InternetService_DSL,0.010004784069949056
+internet.OnlineSecurity_Yes,0.009165182767593927
+account.Contract_Two year,0.008491664176776216
+Contract_Two year,0.0078293097846242
+account.Contract_One year,0.0035583193487603547
+internet.OnlineBackup_No internet service,0.0033907169251516578
+phone.PhoneService_No,0.0029485563786265634
+phone.MultipleLines_No phone service,0.0026980444642396117
+internet.StreamingTV_No internet service,0.002603465498097983
+phone.PhoneService_Yes,0.002569009989219121
+Contract_One year,0.0024043385317042056
+internet.DeviceProtection_No internet service,0.002254158750109754
+internet.TechSupport_No internet service,0.002118278424679765
+internet.InternetService_No,0.0020023117193250844
+internet.OnlineSecurity_No internet service,0.0018405376499622242
+internet.StreamingMovies_No internet service,0.0016970337743436833
